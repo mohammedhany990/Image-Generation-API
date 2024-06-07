@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "+HEsTwmPLTzj4mITJFg40t4YOkTI9uyaMP6aXaqENWU=",
+  "Source": "ImageGenerator.API",
+  "BasePath": "_content/ImageGenerator.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ImageGenerator.API\\wwwroot",
+      "Source": "ImageGenerator.API",
+      "ContentRoot": "E:\\CodePractice\\Flask\\Final API\\Repo\\ImageGeneration-API\\ImageGenerator.API\\wwwroot\\",
+      "BasePath": "_content/ImageGenerator.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

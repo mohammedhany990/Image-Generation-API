@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\CodePractice\Publish\ImageGenerator</_PublishTargetUrl>
+    <History>True|2024-05-20T17:43:58.9015309Z;True|2024-05-20T20:36:52.7938636+03:00;True|2024-05-20T20:36:21.8817517+03:00;True|2024-05-20T20:34:35.8029879+03:00;False|2024-05-20T20:33:47.1958337+03:00;True|2024-05-20T20:27:12.1428990+03:00;True|2024-05-20T20:17:34.7288723+03:00;True|2024-05-20T20:12:31.2103357+03:00;True|2024-05-20T20:10:13.7937678+03:00;True|2024-05-20T19:56:40.4783246+03:00;True|2024-05-20T19:39:14.8545978+03:00;True|2024-05-20T16:45:33.2105838+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
