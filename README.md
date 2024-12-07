@@ -49,21 +49,5 @@ A comprehensive API for image generation and user management, developed using **
    ```bash
    git clone https://github.com/yourusername/ImageGeneratorAPI.git
 
-## 📜 API Endpoints  
 
-### Authentication  
-
-- **POST** `/api/auth/register` – Register a new user.  
-- **POST** `/api/auth/login` – Authenticate and retrieve tokens.  
-- **POST** `/api/auth/google-signin` – Authenticate using Google Sign-In.  
-
-### Image Management  
-
-- **POST** `/api/images` – Upload a new image.  
-- **GET** `/api/images` – Retrieve all images for a user.  
-- **DELETE** `/api/images/{id}` – Delete an image by its ID.  
-
-### Image Generation (Flask)  
-
-- **POST** `/api/generate` – Generate an image using the Flask-based service.  
 
